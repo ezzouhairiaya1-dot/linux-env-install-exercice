@@ -29,5 +29,4 @@ Tested on Ubuntu with WSL. Result: Python 3.14.4, pip 25.1.1, Jupyter Notebook 6
 ## What does the source command do?
 `source file` runs the commands of a file in the current shell. After editing ~/.bashrc, `source ~/.bashrc` applies the changes without restarting the terminal.
 
-## Note
-This script was written with AI assistance. I tested it and reviewed it myself.
+
